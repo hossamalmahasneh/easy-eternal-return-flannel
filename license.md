@@ -202,4 +202,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Eternal Return · Updated 2026-11-16 · Shared under the MIT License*
+*Eternal Return · Updated 2026-11-17 · Shared under the MIT License*
